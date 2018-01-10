@@ -60,11 +60,11 @@ small {
 .wrapper {
     margin: 0 auto;
     padding: 0 10px;
-    width: 940px;
+    /* width: 940px; */
     margin-top: 20px;
 }
 header {
-    height: 120px;
+    /* height: 120px; */
 }
 header h1 {
 
@@ -76,9 +76,9 @@ header nav {
 
 }
 header nav ul li {
-    float: left;
-    display: inline-block;
-    margin-top: 50px;
+    /* float: left; */
+    /* display: inline-block; */
+    margin-top: 10px;
 }
 header nav ul li a {
     color: #ffc627;
