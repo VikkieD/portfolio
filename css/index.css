@@ -7,6 +7,7 @@ p {
     line-height: 20px;
     margin-bottom: 20px;
     color: #fff;
+    padding: 10px;
 }
 h1 {
     font-family: 'Montserrat', sans-serif;
@@ -112,7 +113,7 @@ header nav ul li a {
 }
 #primary-content {
     background-color: #553278;
-    padding: 60px 0;
+    padding: 20px 0;
     text-align: left;
 }
 #primary-content h3 {
@@ -168,7 +169,7 @@ input[type=submit]:hover {
 }
 
 footer {
-    padding: 60px 0;
+    padding: 20px 0;
     background-color: #553278;
 }
 #footer-info {
