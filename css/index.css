@@ -6,6 +6,7 @@ body {
 p {
     line-height: 20px;
     margin-bottom: 20px;
+    color: #fff;
 }
 h1 {
     font-family: 'Montserrat', sans-serif;
@@ -111,9 +112,9 @@ header nav ul li a {
     color: #fff;
 }
 #primary-content {
-    background-color: #f8fafa;
+    background-color: #553278;
     padding: 60px 0;
-    text-align: center;
+    text-align: left;
 }
 #primary-content h3 {
     display: block;
@@ -150,10 +151,21 @@ input[type=submit]:hover {
     background-color: #45a049;
 }
 
-.container {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
+@media (max-width: 900px) {
+    .content {
+        width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .content {
+        width: 100%;
+    }
+}
+
+.content {
+    background-color: #553278;
+    padding: 10px;
 }
 
 footer {
