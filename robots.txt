@@ -1,0 +1,6 @@
+# www.robotstxt.org
+
+Sitemap: http://victoriadoherty.ca/sitemap.xml
+
+User-Agent: *
+Disallow:

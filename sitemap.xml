@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+     <loc>http://victoriadoherty.ca/index.html</loc>
+     <lastmod>2018-01-10</lastmod>
+     <changefreq>monthly</changefreq>
+     <priority>0.8</priority>
+  </url>
+
+  <url>
+     <loc>http://victoriadoherty.ca/portfolio.html</loc>
+     <lastmod>2018-01-10</lastmod>
+     <changefreq>monthly</changefreq>
+     <priority>0.8</priority>
+  </url>
+
+  <url>
+     <loc>http://victoriadoherty.ca/piece-1-page.html</loc>
+     <lastmod>2018-01-10</lastmod>
+     <changefreq>monthly</changefreq>
+     <priority>0.8</priority>
+  </url>
+
+  <url>
+     <loc>http://victoriadoherty.ca/piece-2-page.html</loc>
+     <lastmod>2018-01-10</lastmod>
+     <changefreq>monthly</changefreq>
+     <priority>0.8</priority>
+  </url>
+
+  <url>
+     <loc>http://victoriadoherty.ca/piece-3-page.html</loc>
+     <lastmod>2018-01-10</lastmod>
+     <changefreq>monthly</changefreq>
+     <priority>0.8</priority>
+  </url>
+
+  <url>
+     <loc>http://victoriadoherty.ca/piece-4-page.html</loc>
+     <lastmod>2018-01-10</lastmod>
+     <changefreq>monthly</changefreq>
+     <priority>0.8</priority>
+  </url>
+
+  <url>
+     <loc>http://victoriadoherty.ca/contact.html</loc>
+     <lastmod>2018-01-10</lastmod>
+     <changefreq>monthly</changefreq>
+     <priority>0.8</priority>
+  </url>
+
+</urlset>
