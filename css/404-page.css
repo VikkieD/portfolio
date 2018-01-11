@@ -6,6 +6,10 @@ body, html {
     font: normal 15px 'Montserrat', sans-serif;
 }
 
+h1 {
+  color: #ffc627;
+}
+
 h2 {
   color: white;
   font-size: 20px;
@@ -58,8 +62,34 @@ a:visited {
 
 .wrapper {
     margin: 0 auto;
-    padding: 0 10px;
-    width: 940px;
+    padding: 0 60px;
+    /* width: 940px; */
+    margin-top: 30px;
+}
+header {
+    /* height: 120px; */
+}
+header h1 {
+  color: #02b8dd;
+
+}
+header h1 .color {
+    color: #02b8dd;
+}
+header nav {
+
+}
+header nav ul li {
+    /* float: left; */
+    /* display: inline-block; */
+    margin-top: 10px;
+}
+header nav ul li a {
+    color: #ffc627;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin-right: 20px;
 }
 
 hr {
