@@ -8,6 +8,7 @@ p {
     margin-bottom: 20px;
     color: #fff;
     padding: 10px;
+    font-size: 100%;
 }
 h1 {
     font-family: 'Montserrat', sans-serif;
@@ -86,6 +87,7 @@ header nav ul li a {
     font-weight: bold;
     display: block;
     margin-right: 20px;
+    font-size: 100%;
 }
 #hero-image {
     height: 580px;
@@ -161,6 +163,11 @@ input[type=submit]:hover {
     .content {
         width: 100%;
     }
+}
+
+article {
+    padding: 50px;
+    float: middle;
 }
 
 .content {
